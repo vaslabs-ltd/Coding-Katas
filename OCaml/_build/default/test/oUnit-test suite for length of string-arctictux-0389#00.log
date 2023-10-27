@@ -1,0 +1,135 @@
+2023-10-27T10:08:33+00:00 arctictux-0389#00 I: Runner: processes
+2023-10-27T10:08:33+00:00 arctictux-0389#00 I: Chooser: simple
+2023-10-27T10:08:33+00:00 arctictux-0389#00 I: Configuration suite_name = "test suite for length of string"
+2023-10-27T10:08:33+00:00 arctictux-0389#00 I: Configuration cache_filename = "/home/irodotos/vaslabs/katas/katas/_build/default/test/oUnit-$(suite_name).cache"
+2023-10-27T10:08:33+00:00 arctictux-0389#00 I: Configuration run_gc_full_major = "true"
+2023-10-27T10:08:33+00:00 arctictux-0389#00 I: Configuration display = "true"
+2023-10-27T10:08:33+00:00 arctictux-0389#00 I: Configuration results_style_1_X = "false"
+2023-10-27T10:08:33+00:00 arctictux-0389#00 I: Configuration testdata_dir = "none"
+2023-10-27T10:08:33+00:00 arctictux-0389#00 I: Configuration health_check_interval = "1."
+2023-10-27T10:08:33+00:00 arctictux-0389#00 I: Configuration verbose = "false"
+2023-10-27T10:08:33+00:00 arctictux-0389#00 I: Configuration chooser = "simple"
+2023-10-27T10:08:33+00:00 arctictux-0389#00 I: Configuration output_html_dir = "none"
+2023-10-27T10:08:33+00:00 arctictux-0389#00 I: Configuration processes_kill_period = "5."
+2023-10-27T10:08:33+00:00 arctictux-0389#00 I: Configuration runner = "processes"
+2023-10-27T10:08:33+00:00 arctictux-0389#00 I: Configuration shards = "8"
+2023-10-27T10:08:33+00:00 arctictux-0389#00 I: Configuration processes_grace_period = "5."
+2023-10-27T10:08:33+00:00 arctictux-0389#00 I: Configuration log_encoding = "utf-8"
+2023-10-27T10:08:33+00:00 arctictux-0389#00 I: Configuration output_junit_file = "none"
+2023-10-27T10:08:33+00:00 arctictux-0389#00 I: Configuration ci = "false"
+2023-10-27T10:08:33+00:00 arctictux-0389#00 I: Configuration output_file = "/home/irodotos/vaslabs/katas/katas/_build/default/test/oUnit-$(suite_name)-$(shard_id).log"
+2023-10-27T10:08:33+00:00 arctictux-0389#00 I: Using 8 workers maximum.
+2023-10-27T10:08:33+00:00 arctictux-0389#00 I: Starting worker number arctictux-0389#01.
+2023-10-27T10:08:33+00:00 arctictux-0389#00 I: Worker arctictux-0389#01 started.
+2023-10-27T10:08:33+00:00 arctictux-0389#00 I: Starting worker number arctictux-0389#02.
+2023-10-27T10:08:33+00:00 arctictux-0389#00 I: Worker arctictux-0389#02 started.
+2023-10-27T10:08:33+00:00 arctictux-0389#00 I: Starting worker number arctictux-0389#03.
+2023-10-27T10:08:33+00:00 arctictux-0389#00 I: Worker arctictux-0389#03 started.
+2023-10-27T10:08:33+00:00 arctictux-0389#00 I: Starting worker number arctictux-0389#04.
+2023-10-27T10:08:33+00:00 arctictux-0389#00 I: Worker arctictux-0389#04 started.
+2023-10-27T10:08:33+00:00 arctictux-0389#00 I: Starting worker number arctictux-0389#05.
+2023-10-27T10:08:33+00:00 arctictux-0389#00 I: Worker arctictux-0389#05 started.
+2023-10-27T10:08:33+00:00 arctictux-0389#00 I: Starting worker number arctictux-0389#06.
+2023-10-27T10:08:33+00:00 arctictux-0389#00 I: Worker arctictux-0389#06 started.
+2023-10-27T10:08:33+00:00 arctictux-0389#00 I: Starting worker number arctictux-0389#07.
+2023-10-27T10:08:33+00:00 arctictux-0389#00 I: Worker arctictux-0389#07 started.
+2023-10-27T10:08:33+00:00 arctictux-0389#00 I: Starting worker number arctictux-0389#08.
+2023-10-27T10:08:33+00:00 arctictux-0389#00 I: Worker arctictux-0389#08 started.
+2023-10-27T10:08:33+00:00 arctictux-0389#00 I: 8 tests running: test suite for length of string:7:string that have newline , test suite for length of string:6:string that have space in the end, test suite for length of string:5:words separated by space, test suite for length of string:4:characters separated by space, test suite for length of string:3:single character string with space in front, test suite for length of string:2:single character string, test suite for length of string:1:just spaces string, test suite for length of string:0:empty string.
+2023-10-27T10:08:33+00:00 arctictux-0389#01 I: Start test test suite for length of string:0:empty string.
+2023-10-27T10:08:33+00:00 arctictux-0389#02 I: Start test test suite for length of string:1:just spaces string.
+2023-10-27T10:08:33+00:00 arctictux-0389#03 I: Start test test suite for length of string:2:single character string.
+2023-10-27T10:08:33+00:00 arctictux-0389#04 I: Start test test suite for length of string:3:single character string with space in front.
+2023-10-27T10:08:33+00:00 arctictux-0389#05 I: Start test test suite for length of string:4:characters separated by space.
+2023-10-27T10:08:33+00:00 arctictux-0389#06 I: Start test test suite for length of string:5:words separated by space.
+2023-10-27T10:08:33+00:00 arctictux-0389#07 I: Start test test suite for length of string:6:string that have space in the end.
+2023-10-27T10:08:33+00:00 arctictux-0389#00 I: 8 tests running: test suite for length of string:7:string that have newline , test suite for length of string:6:string that have space in the end, test suite for length of string:5:words separated by space, test suite for length of string:4:characters separated by space, test suite for length of string:3:single character string with space in front, test suite for length of string:2:single character string, test suite for length of string:1:just spaces string, test suite for length of string:0:empty string.
+2023-10-27T10:08:33+00:00 arctictux-0389#01 I: Test test suite for length of string:0:empty string is successful.
+2023-10-27T10:08:33+00:00 arctictux-0389#02 I: Test test suite for length of string:1:just spaces string is successful.
+2023-10-27T10:08:33+00:00 arctictux-0389#03 I: Test test suite for length of string:2:single character string is successful.
+2023-10-27T10:08:33+00:00 arctictux-0389#00 I: 8 tests running: test suite for length of string:7:string that have newline , test suite for length of string:6:string that have space in the end, test suite for length of string:5:words separated by space, test suite for length of string:4:characters separated by space, test suite for length of string:3:single character string with space in front, test suite for length of string:2:single character string, test suite for length of string:1:just spaces string, test suite for length of string:0:empty string.
+2023-10-27T10:08:33+00:00 arctictux-0389#01 I: End test test suite for length of string:0:empty string.
+2023-10-27T10:08:33+00:00 arctictux-0389#02 I: End test test suite for length of string:1:just spaces string.
+2023-10-27T10:08:33+00:00 arctictux-0389#03 I: End test test suite for length of string:2:single character string.
+2023-10-27T10:08:33+00:00 arctictux-0389#00 I: 8 tests running: test suite for length of string:7:string that have newline , test suite for length of string:6:string that have space in the end, test suite for length of string:5:words separated by space, test suite for length of string:4:characters separated by space, test suite for length of string:3:single character string with space in front, test suite for length of string:2:single character string, test suite for length of string:1:just spaces string, test suite for length of string:0:empty string.
+2023-10-27T10:08:33+00:00 arctictux-0389#04 I: Test test suite for length of string:3:single character string with space in front is successful.
+2023-10-27T10:08:33+00:00 arctictux-0389#08 I: Start test test suite for length of string:7:string that have newline .
+2023-10-27T10:08:33+00:00 arctictux-0389#00 I: Still 6 tests running : test suite for length of string:8:string that have delete chars in the end, test suite for length of string:7:string that have newline , test suite for length of string:6:string that have space in the end, test suite for length of string:5:words separated by space, test suite for length of string:4:characters separated by space, test suite for length of string:3:single character string with space in front.
+2023-10-27T10:08:33+00:00 arctictux-0389#00 I: 6 tests running: test suite for length of string:8:string that have delete chars in the end, test suite for length of string:7:string that have newline , test suite for length of string:6:string that have space in the end, test suite for length of string:5:words separated by space, test suite for length of string:4:characters separated by space, test suite for length of string:3:single character string with space in front.
+2023-10-27T10:08:33+00:00 arctictux-0389#04 I: End test test suite for length of string:3:single character string with space in front.
+2023-10-27T10:08:33+00:00 arctictux-0389#05 I: Test test suite for length of string:4:characters separated by space is successful.
+2023-10-27T10:08:33+00:00 arctictux-0389#03 I: Start test test suite for length of string:8:string that have delete chars in the end.
+2023-10-27T10:08:33+00:00 arctictux-0389#00 I: Still 6 tests running : test suite for length of string:8:string that have delete chars in the end, test suite for length of string:7:string that have newline , test suite for length of string:6:string that have space in the end, test suite for length of string:5:words separated by space, test suite for length of string:4:characters separated by space, test suite for length of string:3:single character string with space in front.
+2023-10-27T10:08:33+00:00 arctictux-0389#00 I: 6 tests running: test suite for length of string:8:string that have delete chars in the end, test suite for length of string:7:string that have newline , test suite for length of string:6:string that have space in the end, test suite for length of string:5:words separated by space, test suite for length of string:4:characters separated by space, test suite for length of string:3:single character string with space in front.
+2023-10-27T10:08:33+00:00 arctictux-0389#05 I: End test test suite for length of string:4:characters separated by space.
+2023-10-27T10:08:33+00:00 arctictux-0389#00 I: Still 5 tests running : test suite for length of string:8:string that have delete chars in the end, test suite for length of string:7:string that have newline , test suite for length of string:6:string that have space in the end, test suite for length of string:5:words separated by space, test suite for length of string:4:characters separated by space.
+2023-10-27T10:08:33+00:00 arctictux-0389#00 I: 5 tests running: test suite for length of string:8:string that have delete chars in the end, test suite for length of string:7:string that have newline , test suite for length of string:6:string that have space in the end, test suite for length of string:5:words separated by space, test suite for length of string:4:characters separated by space.
+2023-10-27T10:08:33+00:00 arctictux-0389#07 I: Test test suite for length of string:6:string that have space in the end is successful.
+2023-10-27T10:08:33+00:00 arctictux-0389#00 I: Still 4 tests running : test suite for length of string:8:string that have delete chars in the end, test suite for length of string:7:string that have newline , test suite for length of string:6:string that have space in the end, test suite for length of string:5:words separated by space.
+2023-10-27T10:08:33+00:00 arctictux-0389#00 I: 4 tests running: test suite for length of string:8:string that have delete chars in the end, test suite for length of string:7:string that have newline , test suite for length of string:6:string that have space in the end, test suite for length of string:5:words separated by space.
+2023-10-27T10:08:33+00:00 arctictux-0389#07 I: End test test suite for length of string:6:string that have space in the end.
+2023-10-27T10:08:33+00:00 arctictux-0389#00 I: Still 4 tests running : test suite for length of string:8:string that have delete chars in the end, test suite for length of string:7:string that have newline , test suite for length of string:6:string that have space in the end, test suite for length of string:5:words separated by space.
+2023-10-27T10:08:33+00:00 arctictux-0389#00 I: 4 tests running: test suite for length of string:8:string that have delete chars in the end, test suite for length of string:7:string that have newline , test suite for length of string:6:string that have space in the end, test suite for length of string:5:words separated by space.
+2023-10-27T10:08:33+00:00 arctictux-0389#03 I: Test test suite for length of string:8:string that have delete chars in the end is successful.
+2023-10-27T10:08:33+00:00 arctictux-0389#00 I: Still 3 tests running : test suite for length of string:8:string that have delete chars in the end, test suite for length of string:7:string that have newline , test suite for length of string:5:words separated by space.
+2023-10-27T10:08:33+00:00 arctictux-0389#00 I: 3 tests running: test suite for length of string:8:string that have delete chars in the end, test suite for length of string:7:string that have newline , test suite for length of string:5:words separated by space.
+2023-10-27T10:08:33+00:00 arctictux-0389#03 I: End test test suite for length of string:8:string that have delete chars in the end.
+2023-10-27T10:08:33+00:00 arctictux-0389#00 I: Still 3 tests running : test suite for length of string:8:string that have delete chars in the end, test suite for length of string:7:string that have newline , test suite for length of string:5:words separated by space.
+2023-10-27T10:08:33+00:00 arctictux-0389#00 I: 3 tests running: test suite for length of string:8:string that have delete chars in the end, test suite for length of string:7:string that have newline , test suite for length of string:5:words separated by space.
+2023-10-27T10:08:33+00:00 arctictux-0389#00 I: Still 2 tests running : test suite for length of string:7:string that have newline , test suite for length of string:5:words separated by space.
+2023-10-27T10:08:33+00:00 arctictux-0389#00 I: 2 tests running: test suite for length of string:7:string that have newline , test suite for length of string:5:words separated by space.
+2023-10-27T10:08:33+00:00 arctictux-0389#06 I: Test test suite for length of string:5:words separated by space is successful.
+2023-10-27T10:08:33+00:00 arctictux-0389#00 I: Still 2 tests running : test suite for length of string:7:string that have newline , test suite for length of string:5:words separated by space.
+2023-10-27T10:08:33+00:00 arctictux-0389#00 I: 2 tests running: test suite for length of string:7:string that have newline , test suite for length of string:5:words separated by space.
+2023-10-27T10:08:33+00:00 arctictux-0389#06 I: End test test suite for length of string:5:words separated by space.
+2023-10-27T10:08:33+00:00 arctictux-0389#08 I: Test test suite for length of string:7:string that have newline  is successful.
+2023-10-27T10:08:33+00:00 arctictux-0389#00 I: Still 2 tests running : test suite for length of string:7:string that have newline , test suite for length of string:5:words separated by space.
+2023-10-27T10:08:33+00:00 arctictux-0389#00 I: 2 tests running: test suite for length of string:7:string that have newline , test suite for length of string:5:words separated by space.
+2023-10-27T10:08:33+00:00 arctictux-0389#08 I: End test test suite for length of string:7:string that have newline .
+2023-10-27T10:08:33+00:00 arctictux-0389#00 I: Still 1 tests running : test suite for length of string:7:string that have newline .
+2023-10-27T10:08:33+00:00 arctictux-0389#00 I: 1 tests running: test suite for length of string:7:string that have newline .
+2023-10-27T10:08:33+00:00 arctictux-0389#00 I: 0 tests running: .
+2023-10-27T10:08:33+00:00 arctictux-0389#00 I: Worker arctictux-0389#01 has ended.
+2023-10-27T10:08:33+00:00 arctictux-0389#00 I: Worker arctictux-0389#02 has ended.
+2023-10-27T10:08:33+00:00 arctictux-0389#00 I: Worker arctictux-0389#04 has ended.
+2023-10-27T10:08:33+00:00 arctictux-0389#00 I: Worker arctictux-0389#05 has ended.
+2023-10-27T10:08:33+00:00 arctictux-0389#00 I: Worker arctictux-0389#07 has ended.
+2023-10-27T10:08:33+00:00 arctictux-0389#00 I: Worker arctictux-0389#03 has ended.
+2023-10-27T10:08:33+00:00 arctictux-0389#00 I: Worker arctictux-0389#06 has ended.
+2023-10-27T10:08:33+00:00 arctictux-0389#00 I: Worker arctictux-0389#08 has ended.
+2023-10-27T10:08:33+00:00 arctictux-0389#00 I: Used 8 worker during test execution.
+2023-10-27T10:08:33+00:00 arctictux-0389#00 I: Run 1 tests with shard arctictux-0389#01.
+2023-10-27T10:08:33+00:00 arctictux-0389#00 I: Run 2 tests with shard arctictux-0389#03.
+2023-10-27T10:08:33+00:00 arctictux-0389#00 I: Run 1 tests with shard arctictux-0389#08.
+2023-10-27T10:08:33+00:00 arctictux-0389#00 I: Run 1 tests with shard arctictux-0389#04.
+2023-10-27T10:08:33+00:00 arctictux-0389#00 I: Run 1 tests with shard arctictux-0389#06.
+2023-10-27T10:08:33+00:00 arctictux-0389#00 I: Run 1 tests with shard arctictux-0389#05.
+2023-10-27T10:08:33+00:00 arctictux-0389#00 I: Run 1 tests with shard arctictux-0389#07.
+2023-10-27T10:08:33+00:00 arctictux-0389#00 I: Run 1 tests with shard arctictux-0389#02.
+2023-10-27T10:08:33+00:00 arctictux-0389#00 I: Check health of shard arctictux-0389#01, 12 times.
+2023-10-27T10:08:33+00:00 arctictux-0389#00 I: Check health of shard arctictux-0389#03, 5 times.
+2023-10-27T10:08:33+00:00 arctictux-0389#00 I: Check health of shard arctictux-0389#08, 1 times.
+2023-10-27T10:08:33+00:00 arctictux-0389#00 I: Check health of shard arctictux-0389#04, 10 times.
+2023-10-27T10:08:33+00:00 arctictux-0389#00 I: Check health of shard arctictux-0389#06, 2 times.
+2023-10-27T10:08:33+00:00 arctictux-0389#00 I: Check health of shard arctictux-0389#05, 9 times.
+2023-10-27T10:08:33+00:00 arctictux-0389#00 I: Check health of shard arctictux-0389#07, 7 times.
+2023-10-27T10:08:33+00:00 arctictux-0389#00 I: Check health of shard arctictux-0389#02, 12 times.
+2023-10-27T10:08:33+00:00 arctictux-0389#00 I: ==============
+2023-10-27T10:08:33+00:00 arctictux-0389#00 I: Summary:
+2023-10-27T10:08:33+00:00 arctictux-0389#00 I: Test test suite for length of string:7:string that have newline  is successful.
+2023-10-27T10:08:33+00:00 arctictux-0389#00 I: Test test suite for length of string:5:words separated by space is successful.
+2023-10-27T10:08:33+00:00 arctictux-0389#00 I: Test test suite for length of string:8:string that have delete chars in the end is successful.
+2023-10-27T10:08:33+00:00 arctictux-0389#00 I: Test test suite for length of string:6:string that have space in the end is successful.
+2023-10-27T10:08:33+00:00 arctictux-0389#00 I: Test test suite for length of string:4:characters separated by space is successful.
+2023-10-27T10:08:33+00:00 arctictux-0389#00 I: Test test suite for length of string:3:single character string with space in front is successful.
+2023-10-27T10:08:33+00:00 arctictux-0389#00 I: Test test suite for length of string:2:single character string is successful.
+2023-10-27T10:08:33+00:00 arctictux-0389#00 I: Test test suite for length of string:1:just spaces string is successful.
+2023-10-27T10:08:33+00:00 arctictux-0389#00 I: Test test suite for length of string:0:empty string is successful.
+2023-10-27T10:08:33+00:00 arctictux-0389#00 I: Ran: 9 tests in: 0.10 seconds.
+2023-10-27T10:08:33+00:00 arctictux-0389#00 I: Cases: 9.
+2023-10-27T10:08:33+00:00 arctictux-0389#00 I: Tried: 9.
+2023-10-27T10:08:33+00:00 arctictux-0389#00 I: Errors: 0.
+2023-10-27T10:08:33+00:00 arctictux-0389#00 I: Failures: 0.
+2023-10-27T10:08:33+00:00 arctictux-0389#00 I: Skip: 0.
+2023-10-27T10:08:33+00:00 arctictux-0389#00 I: Todo: 0.
+2023-10-27T10:08:33+00:00 arctictux-0389#00 I: Timeout: 0.
